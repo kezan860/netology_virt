@@ -1,0 +1,9 @@
+[nodes:children]
+ns1
+ns2
+
+[ns1]
+node01.netology.cloud ansible_host=centos@51.250.11.138
+
+[ns2]
+node02.netology.cloud ansible_host=centos@51.250.1.44
